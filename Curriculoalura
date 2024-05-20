@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo.html</title>
+
+    
+</head>
+
+<body>
+    <h2>Karen Cristina de Araujo Camargo</h2>
+    <h4>Nascimento: 01/11/2006</h4>
+    <h4>Email: cristinadearaujocamargo@gmail.com</h4>
+    <h4>Telefone:(15)99712-1378</h4>
+    <br>
+    <p><h3><span style="color: rgb(6, 6, 75);">Sumário</span></h3></p>
+    <ul>
+        <li>Endereço</li>
+        <li>Experiência</li>
+        <li>Competências</li>
+        <li>Formação</li>
+    </ul>
+    <br>
+    <ul>
+        <li><strong>Endereço:</strong> Sitio Cachoeirinha, S/N</li>
+        <br>
+        <li><strong>Experiência:</strong> <br>
+    atualmente estou cursando o ensino medio, conclusa ocorrera em dezembro deste ano letivo
+          
+            <br><br>
+           .</li>
+            <br>
+           
+    
+
+    <p><h4>Objetivo</h4></p>
+    <p>Trabalhar e desempenhar aprendizados que aprendi.</p>
+
+</body>
+</html>
